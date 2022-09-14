@@ -1,0 +1,2 @@
+/etc/passwd
+find: ‘/etc/passXY’: No such file or directory
