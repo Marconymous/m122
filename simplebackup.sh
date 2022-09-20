@@ -60,4 +60,6 @@ then
 elif [ "$1" = "restore" ]
 then
     restore $DIR
+else
+    printBackUp
 fi
